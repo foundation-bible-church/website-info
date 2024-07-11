@@ -11,7 +11,7 @@ banner:
 features:
   - title: "Who We Are"
     image: "/images/520x480.png"
-    content: "We are a body of believers who ahve been transformed by the grace fo God for the glory of God.  It is our desire that Jesus Christ is glorified in all that we do as we seek to be conformed to Hist image in all that we are.  Our fundamental commitment i to the gospel of Jesus Christ."
+    content: "We are a body of believers who have been transformed by the grace of God for the glory of God.  It is our desire that Jesus Christ is glorified in all that we do as we seek to be conformed to His image in all that we are.  Our fundamental commitment is to the gospel of Jesus Christ."
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
